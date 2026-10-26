@@ -10,5 +10,6 @@ kramdown:
 collections:
   ideas:
     output: true
+excerpt_separator: ''
 exclude:
 - README.md
