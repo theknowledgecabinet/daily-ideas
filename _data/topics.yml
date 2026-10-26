@@ -1,0 +1,28 @@
+- name: Psychology
+  slug: psychology
+  colour: '#b5523b'
+  count: 2
+- name: Science
+  slug: science
+  colour: '#2f7d6d'
+  count: 2
+- name: Philosophy
+  slug: philosophy
+  colour: '#5b4b8a'
+  count: 2
+- name: Technology & AI
+  slug: technology-ai
+  colour: '#2b6cb0'
+  count: 1
+- name: History & Culture
+  slug: history-culture
+  colour: '#8a6d2f'
+  count: 1
+- name: Habits & Growth
+  slug: habits-growth
+  colour: '#4f7f3a'
+  count: 1
+- name: Creativity & Learning
+  slug: creativity-learning
+  colour: '#b0487a'
+  count: 1

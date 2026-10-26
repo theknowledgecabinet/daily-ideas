@@ -1,0 +1,25 @@
+---
+layout: default
+title: Listen as a podcast
+permalink: /podcast/
+description: Get each day's idea in your podcast app, read aloud.
+---
+{%- assign feed = '/feed.xml' | absolute_url -%}
+<section class="narrow">
+  <header class="page-head">
+    <h1>Listen as a podcast</h1>
+    <p class="lede">Every idea is also read aloud. Add this feed to your podcast app and each morning's idea downloads by itself, ready for the walk, the car or the washing up.</p>
+  </header>
+  <div class="feed-box">
+    <code>{{ feed }}</code>
+    <button class="button" type="button" data-copy="{{ feed }}">Copy feed address</button>
+  </div>
+  <h2>Adding it to your app</h2>
+  <ul class="steps">
+    <li><strong>Apple Podcasts</strong> (iPhone): open the Library tab, tap ⋯ at the top, choose <em>Follow a Show by URL</em> and paste the address.</li>
+    <li><strong>Overcast</strong>: tap <em>+</em>, then <em>Add URL</em>, and paste it.</li>
+    <li><strong>Pocket Casts</strong>: paste the address into the search box.</li>
+    <li><strong>Other apps</strong>: look for “add by URL” or “add RSS feed”.</li>
+  </ul>
+  <p class="muted">Your app keeps your place in each episode, and you can change the speed there too.</p>
+</section>

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{%- assign ideas = site.ideas | sort: "date" | reverse -%}
+{%- assign today = ideas | first -%}
+{%- if today %}
+<section class="today narrow" style="--topic: {{ today.colour }}">
+  <p class="eyebrow">Latest idea · {{ today.date | date: "%A %-d %B" }}</p>
+  {%- if today.image %}
+  <a class="today-media" href="{{ today.url | relative_url }}" tabindex="-1" aria-hidden="true">{% include figure.html image=today.image hero=true nocaption=true %}</a>
+  {%- endif %}
+  <p class="meta">
+    <a class="chip" href="{{ '/topics/' | append: today.topic_slug | append: '/' | relative_url }}">{{ today.topic }}</a>
+    <span>{{ today.icon }} {{ today.kind_label }}</span>
+    {%- if today.audio %}<span>{{ today.audio.length }} listen</span>{% endif %}
+  </p>
+  <h1><a href="{{ today.url | relative_url }}">{{ today.title }}</a></h1>
+  <p class="lede">{{ today.why }}</p>
+  {% if today.audio %}{% include player.html idea=today %}{% endif %}
+  <div class="try">
+    <h2>Try this today</h2>
+    {{ today.try_this | markdownify }}
+  </div>
+  <p class="actions"><a class="button" href="{{ today.url | relative_url }}">Read the idea →</a></p>
+</section>
+{%- else %}
+<section class="narrow"><h1>{{ site.title }}</h1><p class="lede">The first idea arrives tomorrow morning.</p></section>
+{%- endif %}
+
+{%- if ideas.size > 1 %}
+<section class="block">
+  <div class="section-head">
+    <h2>Recently</h2>
+    <a href="{{ '/all/' | relative_url }}">All {{ ideas.size }} ideas →</a>
+  </div>
+  <div class="grid">
+    {%- for i in ideas offset: 1 limit: 6 %}{% include card.html idea=i %}{% endfor %}
+  </div>
+</section>
+{%- endif %}
+
+<section class="block">
+  <div class="section-head"><h2>Browse by topic</h2></div>
+  <div class="chips">
+    {%- for t in site.data.topics %}
+    <a class="chip big" style="--topic: {{ t.colour }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">{{ t.name }} <span class="count">{{ t.count }}</span></a>
+    {%- endfor %}
+    <a class="chip big neutral" href="{{ '/books/' | relative_url }}">📚 Books</a>
+  </div>
+</section>

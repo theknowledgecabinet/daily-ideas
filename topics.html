@@ -1,0 +1,18 @@
+---
+layout: default
+title: Topics
+permalink: /topics/
+---
+<header class="page-head">
+  <h1>Topics</h1>
+  <p class="muted">Every idea is filed under one of these.</p>
+</header>
+<div class="topic-list">
+{%- for t in site.data.topics %}
+  {%- assign latest = site.ideas | where: "topic", t.name | sort: "date" | reverse | first %}
+  <a class="topic-tile" style="--topic: {{ t.colour }}" href="{{ '/topics/' | append: t.slug | append: '/' | relative_url }}">
+    <span class="topic-name"><span class="dot"></span>{{ t.name }}</span>
+    <span class="muted">{{ t.count }} idea{% if t.count != 1 %}s{% endif %}{% if latest %} · latest: {{ latest.title }}{% endif %}</span>
+  </a>
+{%- endfor %}
+</div>

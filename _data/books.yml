@@ -1,0 +1,30 @@
+- book: 'Make It Stick: The Science of Successful Learning'
+  author: Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel
+  title: Why quizzing yourself beats rereading
+  url: /habits-growth/2026-10-19-why-quizzing-yourself-beats-rereading/
+  topic: Habits & Growth
+  colour: '#4f7f3a'
+- book: Man's Search for Meaning
+  author: Viktor E. Frankl
+  title: 'Choosing your attitude: Frankl''s last freedom'
+  url: /philosophy/2026-10-26-choosing-your-attitude-frankl-s-last-freedom/
+  topic: Philosophy
+  colour: '#5b4b8a'
+- book: 'Misbehaving: The Making of Behavioral Economics'
+  author: Richard H. Thaler
+  title: Money is not all the same
+  url: /psychology/2026-10-22-money-is-not-all-the-same/
+  topic: Psychology
+  colour: '#b5523b'
+- book: The Mythical Man-Month
+  author: Frederick P. Brooks Jr.
+  title: Why the second system is the most dangerous one you'll ever build
+  url: /technology-ai/2026-10-16-why-the-second-system-is-the-most-dangerous-one-you-ll-ever/
+  topic: Technology & AI
+  colour: '#2b6cb0'
+- book: The Selfish Gene
+  author: Richard Dawkins
+  title: 'The gene''s-eye view: why cooperation can be selfish'
+  url: /science/2026-10-14-the-gene-s-eye-view-why-cooperation-can-be-selfish/
+  topic: Science
+  colour: '#2f7d6d'

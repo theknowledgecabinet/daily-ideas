@@ -1,0 +1,24 @@
+---
+layout: default
+title: Books
+permalink: /books/
+---
+<header class="page-head">
+  <h1>Books</h1>
+  <p class="muted">One big idea from each book, explained in a few minutes.</p>
+</header>
+{%- if site.data.books.size > 0 %}
+<ul class="rows">
+{%- for b in site.data.books %}
+  <li style="--topic: {{ b.colour }}">
+    <a href="{{ b.url | relative_url }}">
+      <span class="row-title"><cite>{{ b.book }}</cite></span>
+      <span class="muted">{{ b.author }}</span>
+      <span class="row-idea"><span class="dot"></span>{{ b.title }}</span>
+    </a>
+  </li>
+{%- endfor %}
+</ul>
+{%- else %}
+<p class="muted">No book ideas yet.</p>
+{%- endif %}

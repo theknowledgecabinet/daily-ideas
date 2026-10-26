@@ -1,0 +1,7 @@
+{%- assign i = include.idea -%}
+<div class="player" data-player
+     data-title="{{ i.title | escape }}" data-artist="{{ site.title | escape }}"
+     data-artwork="{% if i.image %}{{ i.image.medium.url | relative_url }}{% else %}{{ '/assets/icons/icon-512.png' | relative_url }}{% endif %}"
+     data-seconds="{{ i.audio.seconds }}">
+  <audio controls preload="none" src="{{ i.audio.url | relative_url }}"></audio>
+</div>

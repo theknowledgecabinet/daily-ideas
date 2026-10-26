@@ -1,0 +1,27 @@
+---
+layout: default
+title: All ideas
+permalink: /all/
+---
+{%- assign ideas = site.ideas | sort: "date" | reverse -%}
+<header class="page-head">
+  <h1>All ideas</h1>
+  <p class="muted">{{ ideas.size }} so far, newest first.</p>
+</header>
+{%- assign months = ideas | group_by_exp: "i", "i.date | date: '%B %Y'" %}
+{%- for m in months %}
+<section class="block">
+  <h2 class="month">{{ m.name }}</h2>
+  <ul class="rows">
+  {%- for i in m.items %}
+    <li style="--topic: {{ i.colour }}">
+      <a href="{{ i.url | relative_url }}">
+        <span class="row-date">{{ i.date | date: "%a %-d" }}</span>
+        <span class="row-title">{{ i.icon }} {{ i.title }}</span>
+        <span class="row-idea"><span class="dot"></span>{{ i.topic }}{% if i.audio %} · 🎧 {{ i.audio.length }}{% endif %}</span>
+      </a>
+    </li>
+  {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}

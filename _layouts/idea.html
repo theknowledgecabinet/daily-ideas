@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<article class="idea narrow" style="--topic: {{ page.colour }}">
+  <header class="idea-head">
+    <a class="chip" href="{{ '/topics/' | append: page.topic_slug | append: '/' | relative_url }}">{{ page.topic }}</a>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">
+      <span>{{ page.icon }} {{ page.kind_label }}</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+      {%- if page.reading_time %}<span>{{ page.reading_time }} read</span>{% endif %}
+      {%- if page.audio %}<span>{{ page.audio.length }} listen</span>{% endif %}
+    </p>
+  </header>
+
+  {% if page.image %}{% include figure.html image=page.image hero=true %}{% endif %}
+  {% if page.audio %}{% include player.html idea=page %}{% endif %}
+
+  <section class="prose">
+    <h2>The idea</h2>
+    {{ content }}
+  </section>
+
+  <section class="takeaways">
+    <h2>Three things to take away</h2>
+    <ol>
+      {%- for t in page.takeaways %}
+      <li>{{ t | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+      {%- endfor %}
+    </ol>
+  </section>
+
+  {% if page.caveats %}
+  <section class="prose caveats">
+    <h2>Caveats</h2>
+    {{ page.caveats | markdownify }}
+  </section>
+  {% endif %}
+
+  <section class="try">
+    <h2>Try this today</h2>
+    {{ page.try_this | markdownify }}
+  </section>
+
+  <section class="prose">
+    <h2>Why it matters</h2>
+    {{ page.why | markdownify }}
+  </section>
+
+  <section class="source">
+    {% if page.book %}<p class="book">📚 From <cite>{{ page.book }}</cite> by {{ page.book_author }}</p>{% endif %}
+    <p class="source-line">{{ page.source }}{% if page.author %} · {{ page.author }}{% endif %}{% if page.published %} · {{ page.published }}{% endif %}</p>
+    <p class="actions">
+      <a class="button" href="{{ page.source_url }}" rel="noopener">Read the original →</a>
+      <button class="button ghost" type="button" data-share hidden>Share</button>
+    </p>
+  </section>
+
+  <nav class="prevnext" aria-label="More ideas">
+    {% if page.prev %}<a class="prev" href="{{ page.prev.url | relative_url }}"><span>← Previous</span>{{ page.prev.title }}</a>{% else %}<span></span>{% endif %}
+    {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}"><span>Next →</span>{{ page.next.title }}</a>{% endif %}
+  </nav>
+</article>

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{%- assign ideas = site.ideas | where: "topic", page.topic | sort: "date" | reverse -%}
+<header class="page-head" style="--topic: {{ page.colour }}">
+  <p class="eyebrow"><a href="{{ '/topics/' | relative_url }}">Topics</a></p>
+  <h1><span class="dot"></span>{{ page.topic }}</h1>
+  <p class="muted">{{ ideas.size }} idea{% if ideas.size != 1 %}s{% endif %}</p>
+</header>
+<div class="grid">
+  {%- for i in ideas %}{% include card.html idea=i %}{% endfor %}
+</div>

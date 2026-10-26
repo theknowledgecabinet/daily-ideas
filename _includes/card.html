@@ -1,0 +1,17 @@
+{%- assign i = include.idea -%}
+<a class="card" href="{{ i.url | relative_url }}" style="--topic: {{ i.colour }}">
+  <div class="card-media" style="background-color: {% if i.image %}{{ i.image.color }}{% else %}var(--topic){% endif %}">
+    {%- if i.image %}
+    <img src="{{ i.image.card.url | relative_url }}"
+         srcset="{{ i.image.card.url | relative_url }} {{ i.image.card.w }}w, {{ i.image.medium.url | relative_url }} {{ i.image.medium.w }}w"
+         sizes="(min-width: 760px) 340px, 100vw"
+         width="{{ i.image.card.w }}" height="{{ i.image.card.h }}" alt="" loading="lazy" decoding="async">
+    {%- else %}
+    <span class="card-fallback" aria-hidden="true">{{ i.icon }}</span>
+    {%- endif %}
+  </div>
+  <div class="card-body">
+    <p class="card-meta"><span class="dot"></span>{{ i.topic }} · {{ i.date | date: "%-d %b" }}{% if i.audio %} · 🎧 {{ i.audio.length }}{% endif %}</p>
+    <h3>{{ i.title }}</h3>
+  </div>
+</a>
