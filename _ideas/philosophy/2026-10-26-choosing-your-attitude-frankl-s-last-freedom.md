@@ -52,6 +52,9 @@ image:
 prev:
   url: /science/2026-10-23-the-narwhal-s-tusk-is-two-spirals-twisting-in-opposite/
   title: The narwhal's tusk is two spirals, twisting in opposite directions
+next:
+  url: /technology-ai/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/
+  title: ChatGPT is a blurry JPEG of the web
 ---
 {% raw %}
 Viktor Frankl was an Austrian psychiatrist who spent years in Nazi concentration camps before the war's end. In Man's Search for Meaning, he distilled that experience into one idea he called the last of the human freedoms. Everything, he observed, can be taken from a man. Clothes, possessions, family, even dignity. One thing stays: the choice of attitude in any given set of circumstances. You cannot control what happens to you, but you can choose how you face it.

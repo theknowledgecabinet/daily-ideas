@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 27 Oct 2026 08:27:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 08:35:17 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>ChatGPT is a blurry JPEG of the web</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/</link>
+    <guid isPermaLink="false">daily-idea-11</guid>
+    <pubDate>Tue, 27 Oct 2026 08:34:56 +0000</pubDate>
+    <description>&lt;p&gt;The blur is invisible until you put the original next to it, and most of our AI answers arrive without one.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A photocopier once printed three different room sizes as the same number. The copies were readable, and that is exactly what made them dangerous.&lt;/li&gt;&lt;li&gt;If a language model is a lossy compression of the web&amp;#x27;s text, you will never get the exact words back. Hallucinations are the artifacts, and the only dependable check is the original.&lt;/li&gt;&lt;li&gt;Chiang&amp;#x27;s closing question: when you still have the original, how much use is the blurry JPEG?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time a chatbot hands you a confident fact, figure or quote, spend ten minutes treating it as a photocopy: open the original source, check the exact wording, and note where the copy drifted.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web&quot;&gt;The New Yorker&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/audio.mp3" length="1298972" type="audio/mpeg"/>
+    <itunes:duration>216</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Choosing your attitude: Frankl&#x27;s last freedom</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-10-26-choosing-your-attitude-frankl-s-last-freedom/</link>
