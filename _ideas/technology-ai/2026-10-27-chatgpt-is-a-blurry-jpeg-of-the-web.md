@@ -50,6 +50,9 @@ image:
 prev:
   url: /philosophy/2026-10-26-choosing-your-attitude-frankl-s-last-freedom/
   title: 'Choosing your attitude: Frankl''s last freedom'
+next:
+  url: /history-culture/2026-10-28-location-location-location/
+  title: Location, location, location
 ---
 {% raw %}
 In 2013, workers at a German construction company noticed something odd about their office Xerox copier. When they copied a house floor plan, the area label on every one of the three rooms came out as 14.13 square metres. The rooms were actually 14.13, 21.11 and 17.42. The computer scientist David Kriesel traced it to the machine's lossy compression format, JBIG 2, which looks for regions similar enough to store once and reuse. The three labels were similar enough. Xerox shipped a patch in 2014.

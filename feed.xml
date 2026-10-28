@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 27 Oct 2026 08:34:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 09:20:24 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Location, location, location</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-10-28-location-location-location/</link>
+    <guid isPermaLink="false">daily-idea-12</guid>
+    <pubDate>Wed, 28 Oct 2026 09:20:24 +0000</pubDate>
+    <description>&lt;p&gt;If part of history is a matter of where you started, then poverty and dominance become things you can understand and work on, rather than fate.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The head start was a matter of luck: the Fertile Crescent and China happened to have the most useful, domesticable plants and animals, and everyone else&amp;#x27;s starting position depended on what was on their land.&lt;/li&gt;&lt;li&gt;Continent shape mattered because Eurasia runs east to west, so farming spread along similar latitude and climate, while north to south continents kept hitting deserts, mountains and ice.&lt;/li&gt;&lt;li&gt;Germs did most of the work: the herd animals, and the diseases that came with them, were almost all Eurasian, so Europeans survived childhood epidemics that killed populations in the Americas.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Take five minutes with a world map. Draw the long axis of each continent and mark the Fertile Crescent and China, where the first farms appeared, then see which spreads could travel and which were blocked.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.nationalgeographic.com/science/article/news-guns-germs-steel-jared-diamond-interview&quot;&gt;National Geographic&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-10-28-location-location-location/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-10-28-location-location-location/audio.mp3" length="1246556" type="audio/mpeg"/>
+    <itunes:duration>208</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>ChatGPT is a blurry JPEG of the web</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/</link>
