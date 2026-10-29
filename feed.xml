@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 28 Oct 2026 09:20:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 08:57:50 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>How long does it take to form a habit?</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-10-29-how-long-does-it-take-to-form-a-habit/</link>
+    <guid isPermaLink="false">daily-idea-13</guid>
+    <pubDate>Thu, 29 Oct 2026 08:57:50 +0000</pubDate>
+    <description>&lt;p&gt;It replaces the anxious spiral of wondering whether you should have done it today with something steadier: a missed day does not reset the curve, but a reliable trigger does the real work of making the behaviour automatic.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The median time to full automaticity was 66 days, but individual times ranged from 18 to 254, so plan for weeks rather than a fixed date.&lt;/li&gt;&lt;li&gt;A habit binds to its cue. Keep the same context (after breakfast, with the morning coffee) and the situation starts the action for you.&lt;/li&gt;&lt;li&gt;A single missed day cost less than half a point on the automaticity scale and did not derail the process, but staying inconsistent over weeks stopped about half the participants from forming any habit at all.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Write your chosen habit as an if-then: one exact cue (a time, place or event) and one single action, for example: after I pour my morning coffee, I will stretch for two minutes. Keep the cue the same every day and allow two to three months, not three weeks.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit&quot;&gt;UCL News (University College London)&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-10-29-how-long-does-it-take-to-form-a-habit/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-10-29-how-long-does-it-take-to-form-a-habit/audio.mp3" length="1257788" type="audio/mpeg"/>
+    <itunes:duration>210</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Location, location, location</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-10-28-location-location-location/</link>

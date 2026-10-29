@@ -53,6 +53,9 @@ image:
 prev:
   url: /technology-ai/2026-10-27-chatgpt-is-a-blurry-jpeg-of-the-web/
   title: ChatGPT is a blurry JPEG of the web
+next:
+  url: /habits-growth/2026-10-29-how-long-does-it-take-to-form-a-habit/
+  title: How long does it take to form a habit?
 ---
 {% raw %}
 Years ago, a Papua New Guinean politician named Yali asked the young anthropologist Jared Diamond a question that never left him: why is it that white people developed so much cargo and brought it to New Guinea, while black people had little cargo of their own? Diamond built his 1997 book around that question, and his short answer is geography.

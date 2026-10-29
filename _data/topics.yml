@@ -21,7 +21,7 @@
 - name: Habits & Growth
   slug: habits-growth
   colour: '#4f7f3a'
-  count: 1
+  count: 2
 - name: Creativity & Learning
   slug: creativity-learning
   colour: '#b0487a'
