@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<article class="idea narrow" style="--topic: {{ page.colour }}">
+<div class="with-side">
+<article class="idea" style="--topic: {{ page.colour }}">
   <header class="idea-head">
     <a class="chip" href="{{ '/topics/' | append: page.topic_slug | append: '/' | relative_url }}">{{ page.topic }}</a>
     <h1>{{ page.title }}</h1>
@@ -61,3 +62,5 @@ layout: default
     {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}"><span>Next →</span>{{ page.next.title }}</a>{% endif %}
   </nav>
 </article>
+{% include sidebar.html skip=page.url %}
+</div>

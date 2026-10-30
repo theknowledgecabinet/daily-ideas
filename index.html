@@ -4,7 +4,8 @@ layout: default
 {%- assign ideas = site.ideas | sort: "date" | reverse -%}
 {%- assign today = ideas | first -%}
 {%- if today %}
-<section class="today narrow" style="--topic: {{ today.colour }}">
+<div class="with-side">
+<section class="today" style="--topic: {{ today.colour }}">
   <p class="eyebrow">Latest idea · {{ today.date | date: "%A %-d %B" }}</p>
   {%- if today.image %}
   <a class="today-media" href="{{ today.url | relative_url }}" tabindex="-1" aria-hidden="true">{% include figure.html image=today.image hero=true nocaption=true %}</a>
@@ -23,21 +24,12 @@ layout: default
   </div>
   <p class="actions"><a class="button" href="{{ today.url | relative_url }}">Read the idea →</a></p>
 </section>
+{% include sidebar.html skip=today.url %}
+</div>
 {%- else %}
 <section class="narrow"><h1>{{ site.title }}</h1><p class="lede">The first idea arrives tomorrow morning.</p></section>
 {%- endif %}
 
-{%- if ideas.size > 1 %}
-<section class="block">
-  <div class="section-head">
-    <h2>Recently</h2>
-    <a href="{{ '/all/' | relative_url }}">All {{ ideas.size }} ideas →</a>
-  </div>
-  <div class="grid">
-    {%- for i in ideas offset: 1 limit: 6 %}{% include card.html idea=i %}{% endfor %}
-  </div>
-</section>
-{%- endif %}
 
 <section class="block">
   <div class="section-head"><h2>Browse by topic</h2></div>

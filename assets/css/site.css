@@ -185,6 +185,29 @@ main.wrap { padding-top: 20px; padding-bottom: 48px; }
 .pl-row button:hover { background: var(--bg); }
 .pl-note { font-size: .78rem; }
 
+/* Two columns: the idea on the left, recent ideas on the right */
+.with-side { display: grid; gap: 40px; grid-template-columns: minmax(0, 1fr); }
+.with-side > :first-child { max-width: 720px; }
+.side { border-top: 1px solid var(--line); padding-top: 20px; }
+.side .section-head h2 { font-size: 1.05rem; }
+.side-list { list-style: none; margin: 0; padding: 0; }
+.side-list li + li { border-top: 1px solid var(--line); }
+.side-list a { display: flex; gap: 12px; align-items: flex-start; padding: 12px 0; text-decoration: none; }
+.side-list a:hover .side-title { text-decoration: underline; text-underline-offset: 3px; }
+.side-thumb {
+  flex: none; width: 84px; aspect-ratio: 1; border-radius: 10px; overflow: hidden;
+  display: grid; place-items: center; font-size: 1.6rem;
+}
+.side-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.side-text { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.side-meta { font-size: .76rem; color: var(--muted); }
+.side-title { font: 600 .98rem/1.3 var(--serif); }
+@media (min-width: 960px) {
+  .with-side { grid-template-columns: minmax(0, 1fr) 300px; gap: 56px; align-items: start; }
+  .side { border-top: 0; padding-top: 0; }
+  .with-side .hero .figure-media { aspect-ratio: 2 / 1; }
+}
+
 /* Lists: all ideas, books, search results */
 .page-head { margin-bottom: 24px; }
 .page-head h1 { margin-bottom: .2em; }

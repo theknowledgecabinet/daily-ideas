@@ -1,0 +1,24 @@
+{%- assign recent = site.ideas | sort: "date" | reverse -%}
+<aside class="side" aria-label="Recent ideas">
+  <div class="section-head"><h2>Recent ideas</h2><a href="{{ '/all/' | relative_url }}">All {{ recent.size }} →</a></div>
+  <ul class="side-list">
+    {%- assign shown = 0 -%}
+    {%- for i in recent -%}
+    {%- if i.url == include.skip -%}{%- continue -%}{%- endif -%}
+    {%- if shown >= 8 -%}{%- break -%}{%- endif -%}
+    {%- assign shown = shown | plus: 1 %}
+    <li style="--topic: {{ i.colour }}">
+      <a href="{{ i.url | relative_url }}">
+        <span class="side-thumb" style="background-color: {% if i.image %}{{ i.image.color }}{% else %}var(--topic){% endif %}">
+          {%- if i.image %}<img src="{{ i.image.card.url | relative_url }}" width="{{ i.image.card.w }}" height="{{ i.image.card.h }}" alt="" loading="lazy" decoding="async">
+          {%- else %}<span aria-hidden="true">{{ i.icon }}</span>{% endif -%}
+        </span>
+        <span class="side-text">
+          <span class="side-meta"><span class="dot"></span>{{ i.topic }} · {{ i.date | date: "%-d %b" }}</span>
+          <span class="side-title">{{ i.title }}</span>
+        </span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
+</aside>
