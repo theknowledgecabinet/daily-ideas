@@ -50,6 +50,9 @@ image:
 prev:
   url: /history-culture/2026-10-28-location-location-location/
   title: Location, location, location
+next:
+  url: /creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/
+  title: Making something has phases, and the deadline fits only one of them
 ---
 {% raw %}
 Twenty-one days is a number that has outlived every study that produced it. A more careful answer comes from a study run at University College London, where Phillippa Lally and her colleagues followed 96 people who each picked a single healthy behaviour to do once a day, like drinking a glass of water, taking a vitamin, or doing 50 sit-ups. They did it in the same context, such as after breakfast, and logged each day whether they had done it and how automatic it felt. After 12 weeks, 82 of them supplied enough data, and the team fitted a growth curve to each person's sense of automaticity. The median time to reach 95 per cent of the way to full automaticity was 66 days.

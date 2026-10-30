@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 29 Oct 2026 08:57:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 08:38:01 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Making something has phases, and the deadline fits only one of them</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/</link>
+    <guid isPermaLink="false">daily-idea-14</guid>
+    <pubDate>Fri, 30 Oct 2026 08:38:01 +0000</pubDate>
+    <description>&lt;p&gt;Rubin&amp;#x27;s four phases turn the fog of &amp;quot;I should be making progress&amp;quot; into a place you can actually stand.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Name which phase your work is in. That alone tells you whether to push or to wait.&lt;/li&gt;&lt;li&gt;In the seed and experimentation phases a deadline is noise. In the completion phase it is help.&lt;/li&gt;&lt;li&gt;If you keep leaving projects half done, the fix is not more drive. It is a date on the final stretch.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Take one thing you keep postponing. Decide what you would do if it had to ship by Friday, and do that one small step today. A few minutes, tops.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://freakonomics.com/podcast/rick-rubin-on-how-to-make-something-great&quot;&gt;Freakonomics / People I (Mostly) Admire&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/audio.mp3" length="907724" type="audio/mpeg"/>
+    <itunes:duration>151</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>How long does it take to form a habit?</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-10-29-how-long-does-it-take-to-form-a-habit/</link>
