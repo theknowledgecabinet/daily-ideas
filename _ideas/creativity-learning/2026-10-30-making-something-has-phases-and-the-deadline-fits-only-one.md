@@ -52,6 +52,9 @@ image:
 prev:
   url: /habits-growth/2026-10-29-how-long-does-it-take-to-form-a-habit/
   title: How long does it take to form a habit?
+next:
+  url: /psychology/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/
+  title: Why the things we build are worth more than we think
 ---
 {% raw %}
 Rick Rubin produced the early albums of Metallica, Johnny Cash, Adele and Jay-Z, and started Def Jam out of his college dorm room. In The Creative Act: A Way of Being (2023) he sets out a simple map of how creative work actually unfolds. It runs through four phases, and each one has different rules: seed, experimentation, craft, and completion.

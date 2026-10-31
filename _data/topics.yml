@@ -1,7 +1,7 @@
 - name: Psychology
   slug: psychology
   colour: '#b5523b'
-  count: 2
+  count: 3
 - name: Science
   slug: science
   colour: '#2f7d6d'

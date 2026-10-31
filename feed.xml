@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 30 Oct 2026 08:38:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 08:45:47 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Why the things we build are worth more than we think</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/</link>
+    <guid isPermaLink="false">daily-idea-15</guid>
+    <pubDate>Sat, 31 Oct 2026 08:45:47 +0000</pubDate>
+    <description>&lt;p&gt;We all make things that are a bit wrong, and the IKEA effect explains why we keep them anyway.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Labour alone, without customisation or enjoyment, can inflate how much we value what we make.&lt;/li&gt;&lt;li&gt;The effect depends on completing the task: finishing the job is what turns effort into attachment.&lt;/li&gt;&lt;li&gt;Next time you overvalue a home improvement project, remember that the buyer sees the crooked panel, not the Saturday you spent.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Pick one small task you have been postponing, a half-finished shelf or a folder of photos to sort, and commit to finishing it today. Notice whether the completed item feels more yours than one you would simply have bought.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.bbc.com/worklife/article/20190422-how-the-ikea-effect-subtly-influences-how-you-spend&quot;&gt;BBC Worklife&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/audio.mp3" length="962156" type="audio/mpeg"/>
+    <itunes:duration>160</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Making something has phases, and the deadline fits only one of them</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/</link>

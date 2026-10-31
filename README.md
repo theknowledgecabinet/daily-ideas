@@ -21,4 +21,4 @@ links to its original source, which is always worth reading.
 - **This repo:** rebuilt automatically after each new idea and served by GitHub Pages
   (Jekyll, branch `main`). Every file is generated, so edits made here are overwritten.
 
-14 ideas so far.
+15 ideas so far.
