@@ -50,6 +50,9 @@ image:
 prev:
   url: /creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/
   title: Making something has phases, and the deadline fits only one of them
+next:
+  url: /science/2026-11-01-why-time-seems-to-run-one-way/
+  title: Why time seems to run one way
 ---
 {% raw %}
 You spend a Saturday assembling a bookshelf, and the back panel is slightly crooked. When a friend asks what it is worth, the number in your head is well above the price of a factory-finished piece with identical dimensions. That gap is the IKEA effect, named after the Swedish retailer whose furniture arrives in flat packs precisely so you do the building.

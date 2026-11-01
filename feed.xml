@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 31 Oct 2026 08:45:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 08:31:27 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Why time seems to run one way</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-01-why-time-seems-to-run-one-way/</link>
+    <guid isPermaLink="false">daily-idea-16</guid>
+    <pubDate>Sun, 01 Nov 2026 08:31:27 +0000</pubDate>
+    <description>&lt;p&gt;The same physics that makes time feel like it only moves forward is what makes memory and cause and effect possible at all, which is a useful thing to have in the back of your head when a plan goes one way only.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The fundamental laws of physics are almost indifferent to direction; the one-way feel of time comes from the second law of thermodynamics.&lt;/li&gt;&lt;li&gt;Our sense of memory is not a separate mystery from the physical one: the psychological arrow is tied to the thermodynamic arrow.&lt;/li&gt;&lt;li&gt;Hawking&amp;#x27;s no boundary proposal removes the need for a first moment of time, in the way that there is no point further north than the North Pole.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time you find yourself wondering whether a choice can be taken back, notice which way the entropy went: the decision made, the message sent, the cup broken. That direction is the same arrow that makes memory possible.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Brief_History_of_Time&quot;&gt;Wikipedia&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-01-why-time-seems-to-run-one-way/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-01-why-time-seems-to-run-one-way/audio.mp3" length="1017308" type="audio/mpeg"/>
+    <itunes:duration>170</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Why the things we build are worth more than we think</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/</link>
