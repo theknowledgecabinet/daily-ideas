@@ -52,6 +52,9 @@ image:
 prev:
   url: /psychology/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/
   title: Why the things we build are worth more than we think
+next:
+  url: /philosophy/2026-11-03-many-of-us-don-t-live-inside-a-story/
+  title: Many of us don't live inside a story
 ---
 {% raw %}
 In the 1988 classic A Brief History of Time, Stephen Hawking spends a chapter on the arrow of time, and it makes for a better argument than most books about time management.

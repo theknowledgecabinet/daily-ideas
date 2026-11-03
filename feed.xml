@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 01 Nov 2026 08:31:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 08:50:04 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Many of us don&#x27;t live inside a story</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-03-many-of-us-don-t-live-inside-a-story/</link>
+    <guid isPermaLink="false">daily-idea-17</guid>
+    <pubDate>Tue, 03 Nov 2026 08:50:04 +0000</pubDate>
+    <description>&lt;p&gt;Knowing whether you are a story you are living, or just a life you are living, changes how you treat your own incoherence.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The idea that we are the stories we tell describes one type of person, not all of us; for many, life simply has no plot.&lt;/li&gt;&lt;li&gt;A fragmentary, present-focused memory can be an advantage. Montaigne said his faulty memory protected him from ambition and forced him to think for himself.&lt;/li&gt;&lt;li&gt;Notice when you are curating your life to fit a narrative. The pressure to make a good story can quietly outweigh the pressure to live well.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Set a timer for ten minutes and write down as many memories as you can, in whatever order they surface. Don&amp;#x27;t try to connect them. If they refuse to form a plot, you have a feel for which kind you are.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://aeon.co/essays/let-s-ditch-the-dangerous-idea-that-life-is-a-story&quot;&gt;Aeon Essays&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-03-many-of-us-don-t-live-inside-a-story/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-03-many-of-us-don-t-live-inside-a-story/audio.mp3" length="1184780" type="audio/mpeg"/>
+    <itunes:duration>197</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Why time seems to run one way</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-01-why-time-seems-to-run-one-way/</link>
