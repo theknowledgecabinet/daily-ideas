@@ -4,6 +4,12 @@
   url: /science/2026-11-01-why-time-seems-to-run-one-way/
   topic: Science
   colour: '#2f7d6d'
+- book: Algorithms to Live By
+  author: Brian Christian and Tom Griffiths
+  title: 'The 37 percent rule: when to stop looking and commit'
+  url: /technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/
+  topic: Technology & AI
+  colour: '#2b6cb0'
 - book: Guns, Germs, and Steel
   author: Jared Diamond
   title: Location, location, location

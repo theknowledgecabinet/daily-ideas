@@ -50,6 +50,9 @@ image:
 prev:
   url: /science/2026-11-01-why-time-seems-to-run-one-way/
   title: Why time seems to run one way
+next:
+  url: /technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/
+  title: 'The 37 percent rule: when to stop looking and commit'
 ---
 {% raw %}
 A very popular idea in psychology and philosophy holds that each person lives inside a story. We are, it is said, the stories we tell about ourselves. The neurologist Oliver Sacks wrote that we each construct and live a narrative, and that this narrative is us. The cognitive psychologist Jerome Bruner called the self a perpetually rewritten story. The social psychologist Dan McAdams and the philosopher Daniel Dennett made the same point in different versions. There is, Strawson observes, a remarkably robust consensus around it, and it is tied to the comforting assumption that self-storytelling is a good thing, necessary for a full life. The philosopher Galen Strawson, writing in Aeon, argues that this is simply false.

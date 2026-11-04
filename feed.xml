@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 03 Nov 2026 08:50:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:49:37 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The 37 percent rule: when to stop looking and commit</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/</link>
+    <guid isPermaLink="false">daily-idea-18</guid>
+    <pubDate>Wed, 04 Nov 2026 08:49:37 +0000</pubDate>
+    <description>&lt;p&gt;Most of us carry several open decisions at once, and a concrete rule is easier to act on than waiting to feel sure.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reserve the first 37 percent of your window for looking only, then commit to the first option that beats everything you have seen so far.&lt;/li&gt;&lt;li&gt;The number comes from a real theorem about optimal stopping, and the same rule applies to apartments, jobs and dating.&lt;/li&gt;&lt;li&gt;Before using it, check the assumptions: do you roughly know how long you have, and can you compare the options you have seen?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Pick one decision you are currently mulling over. Estimate how many days or hours you have left, work out 37 percent of that, and once you are past it, commit to the first option that beats everything you have seen.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://news.berkeley.edu/2016/04/26/algorithmstoliveby/&quot;&gt;Berkeley News&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/audio.mp3" length="921692" type="audio/mpeg"/>
+    <itunes:duration>154</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Many of us don&#x27;t live inside a story</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-03-many-of-us-don-t-live-inside-a-story/</link>
