@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 04 Nov 2026 08:49:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 08:42:04 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The deep roots of writing</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-05-the-deep-roots-of-writing/</link>
+    <guid isPermaLink="false">daily-idea-19</guid>
+    <pubDate>Thu, 05 Nov 2026 08:42:04 +0000</pubDate>
+    <description>&lt;p&gt;Every time you jot a list or a note, you are using a technology whose roots are in wet clay, not in an office.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Counting came before the state: Mesopotamian clay tokens were in use roughly 2,000 years before the first states, and the earliest writing was pressed into clay to check what was inside a sealed ball.&lt;/li&gt;&lt;li&gt;Writing was invented independently in four places, and the oldest texts we can read rarely look like administration; they look like temples, kings and gods.&lt;/li&gt;&lt;li&gt;The state expanded writing rather than creating it: scripts bound to ritual became flexible, everyday writing when governments needed names, contracts and letters.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Spend five minutes counting something physical, a handful of beans, a pile of coins, a row of books, with your hands before you count it on a screen. The habit of counting with objects is a few thousand years older than counting with marks. Notice how the two feel different.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://aeon.co/essays/the-roots-of-writing-lie-in-hopes-and-dreams-not-in-accounting&quot;&gt;Aeon&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-05-the-deep-roots-of-writing/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-05-the-deep-roots-of-writing/audio.mp3" length="1221932" type="audio/mpeg"/>
+    <itunes:duration>204</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The 37 percent rule: when to stop looking and commit</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/</link>

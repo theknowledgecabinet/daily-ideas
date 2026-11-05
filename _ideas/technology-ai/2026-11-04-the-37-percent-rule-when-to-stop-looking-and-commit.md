@@ -52,6 +52,9 @@ image:
 prev:
   url: /philosophy/2026-11-03-many-of-us-don-t-live-inside-a-story/
   title: Many of us don't live inside a story
+next:
+  url: /history-culture/2026-11-05-the-deep-roots-of-writing/
+  title: The deep roots of writing
 ---
 {% raw %}
 A month to find an apartment? Spend the first 11 days without a checkbook in hand, then put a deposit on the first place that beats everything you have seen. Eleven days out of thirty is roughly 37 percent of the month, and that fraction turns out to be the right one for a whole class of problems called optimal stopping. The same rule covers a job search, a partner, a parking spot, or anything else where options arrive one at a time and you cannot go back for a rejected one.
