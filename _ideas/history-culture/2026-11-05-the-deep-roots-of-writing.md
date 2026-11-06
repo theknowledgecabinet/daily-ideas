@@ -50,6 +50,9 @@ image:
 prev:
   url: /technology-ai/2026-11-04-the-37-percent-rule-when-to-stop-looking-and-commit/
   title: 'The 37 percent rule: when to stop looking and commit'
+next:
+  url: /habits-growth/2026-11-06-every-habit-runs-on-the-same-three-part-loop/
+  title: Every habit runs on the same three-part loop
 ---
 {% raw %}
 There is a popular story that writing was invented by bureaucrats. The state needed to track people, land and harvests, so elites devised a script, and poetry and love letters came later. The political scientist James Scott took this line to its end in his 2017 book Against the Grain, arguing that the state is a recording machine and that without the state there would be no writing.
