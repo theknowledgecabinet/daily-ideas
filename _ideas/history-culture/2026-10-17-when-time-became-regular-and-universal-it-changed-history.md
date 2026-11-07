@@ -23,7 +23,7 @@ try_this: Find one dated object within reach, a coin, a label, a receipt, and as
 why: We treat the calendar as a fact of nature; knowing it is a 2,300 year old imperial invention makes the date in your diary feel like what it actually is, a shared decision.
 audio:
   url: /assets/ideas/2026-10-17-when-time-became-regular-and-universal-it-changed-history/audio.mp3
-  bytes: 1211276
+  bytes: 1214732
   seconds: 202
   length: 3 min
 image:

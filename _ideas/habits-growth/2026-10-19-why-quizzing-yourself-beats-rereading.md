@@ -25,7 +25,7 @@ try_this: Close your book or notes and write down, from memory, the three things
 why: It reframes the part of study that feels like pointless busywork, the struggle to recall, into the part that actually makes knowledge stick.
 audio:
   url: /assets/ideas/2026-10-19-why-quizzing-yourself-beats-rereading/audio.mp3
-  bytes: 991676
+  bytes: 991244
   seconds: 165
   length: 3 min
 image:
