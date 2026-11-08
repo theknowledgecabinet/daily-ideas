@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 06 Nov 2026 08:40:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 08:43:20 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Struggling before the lesson works better than the lesson first</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/</link>
+    <guid isPermaLink="false">daily-idea-21</guid>
+    <pubDate>Sun, 08 Nov 2026 08:43:20 +0000</pubDate>
+    <description>&lt;p&gt;Nearly every skill we pick up outside school follows this shape, and the first, frustrating attempt shapes how well the real instruction lands.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The productive sequence is attempt first, instruction second. The failed attempt is not time wasted before the real lesson; it is the preparation that makes the lesson stick.&lt;/li&gt;&lt;li&gt;The number of solutions a learner generates before instruction predicts how much they will learn from it. The attempts do not need to be good, only varied.&lt;/li&gt;&lt;li&gt;The benefit comes from deliberate design, not from suffering. Struggle followed by instruction that builds on the struggle is the lesson. Struggle followed by a lecture that ignores it is just wasted time.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time you meet a genuinely new problem at work or in study, spend ten minutes generating two or three plausible approaches on paper before opening the manual, the docs or the answer key. Jot down what you assumed along the way, then read the right approach and compare it against your own notes.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.edweek.org/teaching-learning/what-teachers-get-wrong-about-productive-failure-and-how-to-get-it-right/2024/09&quot;&gt;Education Week&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/audio.mp3" length="1132796" type="audio/mpeg"/>
+    <itunes:duration>189</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Every habit runs on the same three-part loop</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-06-every-habit-runs-on-the-same-three-part-loop/</link>

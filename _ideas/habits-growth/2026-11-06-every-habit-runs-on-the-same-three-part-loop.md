@@ -53,6 +53,9 @@ image:
 prev:
   url: /history-culture/2026-11-05-the-deep-roots-of-writing/
   title: The deep roots of writing
+next:
+  url: /creativity-learning/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/
+  title: Struggling before the lesson works better than the lesson first
 ---
 {% raw %}
 In The Power of Habit, the central idea is that every habit, no matter how complicated, runs on the same three-part loop. There is a cue, a trigger that tells your brain to go on automatic. Then there is the routine, the behaviour itself, the part we usually mean when we say that something has become a habit. And at the end there is a reward, something your brain enjoys, which is what makes it file the whole sequence away for next time.
