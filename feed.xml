@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sun, 08 Nov 2026 08:43:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 08:15:45 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Why we convince ourselves the mistake was the right call</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/</link>
+    <guid isPermaLink="false">daily-idea-22</guid>
+    <pubDate>Mon, 09 Nov 2026 08:15:45 +0000</pubDate>
+    <description>&lt;p&gt;We all make bad calls; the book is about why the quieter second act of covering them up usually costs more than the first.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The most invested people get the most committed: the deeper someone&amp;#x27;s stake in a belief, the harder it becomes to let go when it fails.&lt;/li&gt;&lt;li&gt;We edit memory to fit the conclusion rather than the other way round, reconstructing the past so the decision looks wiser than it was.&lt;/li&gt;&lt;li&gt;Self-justification is the cheaper route, which is why it wins so often: rewriting the story is easier than correcting the behaviour that started it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: When you catch yourself defending a decision that new evidence is quietly undermining, write down the specific facts that would change your mind before they arrive. Naming them in advance leaves you a door you do not have to walk through alone.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://theguardian.com/books/2008/may/24/booksonhealth.scienceandnature&quot;&gt;The Guardian&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/audio.mp3" length="82172" type="audio/mpeg"/>
+    <itunes:duration>14</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Struggling before the lesson works better than the lesson first</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/</link>

@@ -50,6 +50,9 @@ image:
 prev:
   url: /habits-growth/2026-11-06-every-habit-runs-on-the-same-three-part-loop/
   title: Every habit runs on the same three-part loop
+next:
+  url: /psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/
+  title: Why we convince ourselves the mistake was the right call
 ---
 {% raw %}
 Most of us have been taught the same way. The teacher explains the concept, we copy the method, then we practise. It feels orderly. Manu Kapur, a learning scientist at ETH Zurich, has been quietly testing the reverse for nearly two decades, and the results keep pointing the other way.
