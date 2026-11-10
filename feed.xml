@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 09 Nov 2026 08:15:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 08:10:42 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/</link>
+    <guid isPermaLink="false">daily-idea-23</guid>
+    <pubDate>Tue, 10 Nov 2026 08:10:42 +0000</pubDate>
+    <description>&lt;p&gt;It is a concrete case of models built from a single example being overturned by one new observation, a pattern that shows up far more often in everyday life than we usually notice.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A planet can be found without ever being seen: the star&amp;#x27;s wobble shifts its light just enough to betray the unseen body tugging on it.&lt;/li&gt;&lt;li&gt;The first alien world looked nothing like ours. A gas giant hugging its star at about 1,000 degrees Celsius broke the formation models of the day, which were then rebuilt around migration.&lt;/li&gt;&lt;li&gt;One strange detection proved nothing on its own. The field only became accepted after independent teams found the same kind of signal in their own data, and it has since grown past 6,000 planets.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time a new exoplanet makes the news, look for one number: how far the planet is from its star compared with Mercury. That single distance tells you which version of the story you are being told.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://space.com/astronomy/exoplanets/the-exoplanet-revolution-at-30-1st-alien-world-was-found-around-a-sun-like-star-three-decades-ago&quot;&gt;Space.com&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/audio.mp3" length="1027964" type="audio/mpeg"/>
+    <itunes:duration>171</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Why we convince ourselves the mistake was the right call</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/</link>

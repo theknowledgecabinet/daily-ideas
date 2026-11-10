@@ -52,6 +52,9 @@ image:
 prev:
   url: /creativity-learning/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/
   title: Struggling before the lesson works better than the lesson first
+next:
+  url: /science/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/
+  title: 'The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago'
 ---
 {% raw %}
 Carol Tavris and Elliot Aronson are both social psychologists, and in their book Mistakes Were Made (But Not By Me) they make one idea do the heavy lifting: we do not update our beliefs when the evidence arrives. We repair them instead. When an action turns out badly, or a belief no longer holds up, the mind does not simply file the loss. It rebuilds the story until the mistake looks justifiable, or until it can be pushed onto someone else. The psychologists call the driving tension cognitive dissonance, a term that traces back to Leon Festinger, and the book is essentially a tour of what that tension makes us do.
