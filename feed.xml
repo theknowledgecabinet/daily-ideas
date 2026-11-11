@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 10 Nov 2026 08:10:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 08:18:56 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Zoom out: the view from above</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-11-zoom-out-the-view-from-above/</link>
+    <guid isPermaLink="false">daily-idea-24</guid>
+    <pubDate>Wed, 11 Nov 2026 08:18:56 +0000</pubDate>
+    <description>&lt;p&gt;Most of what we overreact to is a street-level problem being carried as if it were a planet-level one, and the exercise is just a way of checking the scale.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The view from above zooms out through space: you, your street, your country, the planet, the stars, until the worry stops fitting the frame.&lt;/li&gt;&lt;li&gt;Marcus pairs the spatial zoom with a temporal one: your whole life is a brief span between two stretches of time in which you simply were not there.&lt;/li&gt;&lt;li&gt;According to Hadot, the exercise was a standard practice of Hellenistic philosophy, aimed at relocating your life within the scale of time and space so small disturbances lose their grip.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: When something is rattling you, take three minutes and walk the zoom out from your desk to your street to your country to the planet, then back to the desk. See which step the problem stopped mattering at.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.stoicinsights.com/the-view-from-above-in-ancient-stoic-practice-and-modern-human-experience&quot;&gt;Stoic Insights&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-11-zoom-out-the-view-from-above/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-11-zoom-out-the-view-from-above/audio.mp3" length="1028828" type="audio/mpeg"/>
+    <itunes:duration>171</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/</link>

@@ -49,6 +49,9 @@ image:
 prev:
   url: /psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/
   title: Why we convince ourselves the mistake was the right call
+next:
+  url: /philosophy/2026-11-11-zoom-out-the-view-from-above/
+  title: 'Zoom out: the view from above'
 ---
 {% raw %}
 On 6 October 1995, Michel Mayor and Didier Queloz of the University of Geneva announced the first detection of a planet orbiting a star like the Sun. They had been measuring tiny wobbles in the star 51 Pegasi with ELODIE, a spectrograph on the 1.93-metre telescope at the Observatoire de Haute-Provence in southern France. As the star wobbles, its light shifts slightly towards and then away from Earth, because an unseen body is tugging on it. It is the seesaw logic: the heavier partner sits near the pivot.
