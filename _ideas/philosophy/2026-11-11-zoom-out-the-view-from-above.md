@@ -51,6 +51,9 @@ image:
 prev:
   url: /science/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/
   title: 'The exoplanet revolution at 30: 1st alien world was found around a sun-like star three decades ago'
+next:
+  url: /technology-ai/2026-11-12-the-game-that-replaced-can-machines-think/
+  title: The game that replaced 'Can machines think?'
 ---
 {% raw %}
 Marcus Aurelius wrote the Meditations not for publication but as a private notebook for himself, and it keeps returning to one trick. When a worry takes hold, zoom out. You stand in your street, then see the street from above, then your town, then your country, then the whole planet, then the Earth as a small point among the stars. The trouble you were carrying stays the same size, but your frame does not. In one passage (Book 9, section 32), he notes that most of what disturbs him lies entirely in his own judgment, and that he can free himself up by taking in the whole universe with his mind and contemplating the eternity of time, how brief the span is from birth to dissolution, and how boundless the time was before birth and will be after it.

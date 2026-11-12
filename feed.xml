@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 11 Nov 2026 08:18:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 08:12:46 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The game that replaced &#x27;Can machines think?&#x27;</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-12-the-game-that-replaced-can-machines-think/</link>
+    <guid isPermaLink="false">daily-idea-25</guid>
+    <pubDate>Thu, 12 Nov 2026 08:12:46 +0000</pubDate>
+    <description>&lt;p&gt;Every time we debate whether a chatbot &amp;#x27;really thinks&amp;#x27;, we are still playing the interrogator in Turing&amp;#x27;s 1950 game.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The move was the reframing: not &amp;#x27;does the machine think?&amp;#x27; but &amp;#x27;can a human tell the difference in a written conversation?&amp;#x27;&lt;/li&gt;&lt;li&gt;Turing&amp;#x27;s own prediction was oddly specific: about 50 years, roughly a billion bits of storage, five minutes of questioning, and a 70 percent chance the interrogator would be right.&lt;/li&gt;&lt;li&gt;Passing the game proves a machine is indistinguishable in behaviour, which is a weaker claim than &amp;#x27;it thinks&amp;#x27;, and most critics have pressed exactly that point ever since.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Read the first two sections of the paper, the Mind page is free. Then put yourself in the interrogator&amp;#x27;s seat and write the three questions you would ask to spot a machine within five minutes. If they are still sharp, you have built a small model of what the field is trying to answer.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://academic.oup.com/mind/article/LIX/236/433/986238&quot;&gt;Mind (Oxford Academic)&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-12-the-game-that-replaced-can-machines-think/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-12-the-game-that-replaced-can-machines-think/audio.mp3" length="1264988" type="audio/mpeg"/>
+    <itunes:duration>211</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Zoom out: the view from above</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-11-zoom-out-the-view-from-above/</link>
