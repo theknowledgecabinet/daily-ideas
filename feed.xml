@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 12 Nov 2026 08:12:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 08:13:02 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Money, nations and gods: the stories that run the world</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/</link>
+    <guid isPermaLink="false">daily-idea-26</guid>
+    <pubDate>Fri, 13 Nov 2026 08:13:02 +0000</pubDate>
+    <description>&lt;p&gt;The next time a nation, a company or a currency shapes your week, you can see it for what it is: a story that works, and stories can be changed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The things that coordinate millions of strangers, money, the law, nationality, are fictions that work because we all agree to believe them.&lt;/li&gt;&lt;li&gt;Harari&amp;#x27;s definition of religion is wider than belief in gods: any system of norms resting on superhuman laws, including the natural laws of economics.&lt;/li&gt;&lt;li&gt;Imagined orders are stable but not permanent. History changes when people start believing in a different story.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: For five minutes tomorrow, keep a list of what you worry about. Count how many entries are trees, weather or other physical things, and how many are money, work, corporations and nations. Harari suggests most of us find that nearly all of it lives in the made up layer.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://smithsonianmag.com/arts-culture/what-makes-humans-different-fiction-and-cooperation-180953986&quot;&gt;Smithsonian magazine&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/audio.mp3" length="1056044" type="audio/mpeg"/>
+    <itunes:duration>176</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The game that replaced &#x27;Can machines think?&#x27;</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-12-the-game-that-replaced-can-machines-think/</link>

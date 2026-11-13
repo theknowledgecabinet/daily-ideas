@@ -50,6 +50,9 @@ image:
 prev:
   url: /philosophy/2026-11-11-zoom-out-the-view-from-above/
   title: 'Zoom out: the view from above'
+next:
+  url: /history-culture/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/
+  title: 'Money, nations and gods: the stories that run the world'
 ---
 {% raw %}
 In October 1950, Alan Mathison Turing published a 27 page paper in the journal Mind. It opens by asking 'Can machines think?' and then discards the question as unworkable, because defining 'machine' or 'think' by ordinary usage would end in a statistical survey, which he thought absurd. Instead he proposed a game, and he called it the imitation game. The name Turing Test was given to it later by others.
