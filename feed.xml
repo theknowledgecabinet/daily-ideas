@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 13 Nov 2026 08:13:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 08:21:33 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Enlightened eating</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-14-enlightened-eating/</link>
+    <guid isPermaLink="false">daily-idea-27</guid>
+    <pubDate>Sat, 14 Nov 2026 08:21:33 +0000</pubDate>
+    <description>&lt;p&gt;Most of our default choices are made automatically, not by willpower, so if you want a different default, change where the things are rather than trying to resist them.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Small changes to where things sit and how they are labelled can shift behaviour without changing the options or the person&lt;/li&gt;&lt;li&gt;Eye level is where the automatic choice is made; rushed people pick the convenient thing, not the best thing, so put the thing you want reached for there&lt;/li&gt;&lt;li&gt;This works anywhere, from a hospital cafeteria to a kitchen drawer or a desk, because the same shortcut is running when you choose what to eat, buy or do by default&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Spend ten minutes rearranging one shelf or drawer where you make a repeated choice. Put the thing you want to reach for at eye level and move the thing you want to avoid out of the way or below. Then just watch what happens over a few days.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://news.harvard.edu/gazette/story/2012/01/enlightened-eating/&quot;&gt;Harvard Gazette&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-14-enlightened-eating/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-14-enlightened-eating/audio.mp3" length="920828" type="audio/mpeg"/>
+    <itunes:duration>153</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Money, nations and gods: the stories that run the world</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/</link>

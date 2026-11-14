@@ -53,6 +53,9 @@ image:
 prev:
   url: /technology-ai/2026-11-12-the-game-that-replaced-can-machines-think/
   title: The game that replaced 'Can machines think?'
+next:
+  url: /habits-growth/2026-11-14-enlightened-eating/
+  title: Enlightened eating
 ---
 {% raw %}
 Harari's argument in Sapiens is that our species took over the world around 70,000 years ago because we are the only animals that can talk about things that do not exist. Other animals use their communication to describe things that actually exist, the river, the predator, the ripe fruit. We use ours to create new realities: myths, money, laws, nations, gods. Once enough people believe the same story, strangers can cooperate as if it were true, and that is what makes large scale cooperation possible.
