@@ -51,6 +51,9 @@ image:
 prev:
   url: /history-culture/2026-11-13-money-nations-and-gods-the-stories-that-run-the-world/
   title: 'Money, nations and gods: the stories that run the world'
+next:
+  url: /creativity-learning/2026-11-15-you-have-to-generate-a-lot-of-garbage-to-reach-greatness/
+  title: You have to generate a lot of garbage to reach greatness
 ---
 {% raw %}
 Anne Thorndike and a team from Massachusetts General Hospital ran a six month study in a busy hospital cafeteria. The aim was to nudge people toward healthier choices without changing the menu or lecturing anyone. Two changes did most of the work.

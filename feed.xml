@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 14 Nov 2026 08:21:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 08:26:29 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>You have to generate a lot of garbage to reach greatness</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-15-you-have-to-generate-a-lot-of-garbage-to-reach-greatness/</link>
+    <guid isPermaLink="false">daily-idea-28</guid>
+    <pubDate>Sun, 15 Nov 2026 08:26:29 +0000</pubDate>
+    <description>&lt;p&gt;Perfectionists often stall because they keep only their safest ideas. This one gives the process permission to be messy again.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The volume you produce is a better predictor of your best work than how carefully you polish each piece.&lt;/li&gt;&lt;li&gt;Creators are most original during the stretches when they have the most bad ideas. Edison had over a hundred failures while perfecting the lightbulb, and the great composers each wrote hundreds of pieces.&lt;/li&gt;&lt;li&gt;A dead end is evidence the process is working, provided you keep going. The next attempt is the legitimate one.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Spend ten minutes this morning listing ideas for anything you are working on, without editing or judging them. Ten rough, half-formed ones counts as a success. Notice how much easier the third one is than the first.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://knowledge.wharton.upenn.edu/article/how-non-conformists-move-the-world&quot;&gt;Knowledge at Wharton&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-15-you-have-to-generate-a-lot-of-garbage-to-reach-greatness/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-15-you-have-to-generate-a-lot-of-garbage-to-reach-greatness/audio.mp3" length="988652" type="audio/mpeg"/>
+    <itunes:duration>165</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Enlightened eating</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-14-enlightened-eating/</link>
