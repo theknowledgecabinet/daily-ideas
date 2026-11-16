@@ -52,6 +52,9 @@ image:
 prev:
   url: /habits-growth/2026-11-14-enlightened-eating/
   title: Enlightened eating
+next:
+  url: /psychology/2026-11-16-why-feeling-more-pain-may-be-better-for-you/
+  title: Why feeling more pain may be better for you
 ---
 {% raw %}
 In 2016, Wharton professor Adam Grant published Originals: How Non-Conformists Move the World. In a sit-down interview with Knowledge at Wharton, he walked through what the research actually says about where original ideas come from, and one finding surprised him most: quantity and quality turn out to be closely related.
