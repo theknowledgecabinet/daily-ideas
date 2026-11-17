@@ -26,6 +26,27 @@ audio:
   bytes: 1061948
   seconds: 177
   length: 3 min
+image:
+  card:
+    url: /assets/ideas/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/card.webp
+    w: 400
+    h: 271
+  medium:
+    url: /assets/ideas/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/medium.webp
+    w: 800
+    h: 542
+  large:
+    url: /assets/ideas/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/large.webp
+    w: 1400
+    h: 949
+  share:
+    url: /assets/ideas/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/share.jpg
+  color: '#c0c0c0'
+  alt: Thomas Kuhn drawing on a blackboard
+  artist: Bob Bielk
+  licence: Public domain
+  licence_url: null
+  page: https://commons.wikimedia.org/wiki/File:Thomas_Kuhn_(1977).jpg
 prev:
   url: /psychology/2026-11-16-why-feeling-more-pain-may-be-better-for-you/
   title: Why feeling more pain may be better for you
