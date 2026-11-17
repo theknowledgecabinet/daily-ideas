@@ -50,6 +50,9 @@ image:
 prev:
   url: /creativity-learning/2026-11-15-you-have-to-generate-a-lot-of-garbage-to-reach-greatness/
   title: You have to generate a lot of garbage to reach greatness
+next:
+  url: /science/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/
+  title: 'Paradigm shift: why science does not move forward step by step'
 ---
 {% raw %}
 In 1993 Daniel Kahneman and colleagues published a paper with the self-explanatory title When More Pain Is Preferred to Less: Adding a Better End. The experiment behind it is simple. Participants put one hand in 14 degree C water for 60 seconds. The other hand went into the same cold water for 60 seconds, then stayed in for 30 more seconds as the water slowly warmed to 15 degrees, still unpleasant but gentler. Afterwards they were asked which trial they would repeat. Nearly 70% chose the longer one.
