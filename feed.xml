@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 17 Nov 2026 08:17:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 08:26:16 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Morality starts with how we see each other</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-18-morality-starts-with-how-we-see-each-other/</link>
+    <guid isPermaLink="false">daily-idea-31</guid>
+    <pubDate>Wed, 18 Nov 2026 08:26:16 +0000</pubDate>
+    <description>&lt;p&gt;Murdoch&amp;#x27;s claim is that almost every moral failure begins inside our private picture of another person, long before anything we do.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;How we picture another person shapes how we treat them, so the inner image is a moral object, not a private one.&lt;/li&gt;&lt;li&gt;Self-preoccupied fantasy, not malice, is what usually distorts how we see someone.&lt;/li&gt;&lt;li&gt;Fairness is something you practice through attention: you loosen the ego&amp;#x27;s grip by looking at another for their own sake.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Pick one person you tend to judge harshly. Spend ten minutes noticing them without scoring them, and jot down what you catch yourself assuming.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules&quot;&gt;Aeon Essays&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-18-morality-starts-with-how-we-see-each-other/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-18-morality-starts-with-how-we-see-each-other/audio.mp3" length="964316" type="audio/mpeg"/>
+    <itunes:duration>161</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Paradigm shift: why science does not move forward step by step</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/</link>

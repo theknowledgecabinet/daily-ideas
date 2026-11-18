@@ -50,6 +50,9 @@ image:
 prev:
   url: /psychology/2026-11-16-why-feeling-more-pain-may-be-better-for-you/
   title: Why feeling more pain may be better for you
+next:
+  url: /philosophy/2026-11-18-morality-starts-with-how-we-see-each-other/
+  title: Morality starts with how we see each other
 ---
 {% raw %}
 In 1947, a young Thomas Kuhn at Harvard was asked to teach a science class for humanities students using historical case studies. He picked up Aristotle's Physics and, reading it as a Newtonian, found it full of errors of logic and observation. Then it struck him: Aristotle was not a bad Newton. He was a brilliant scientist reasoning inside a different set of assumptions about matter and motion. That insight became the foundation of The Structure of Scientific Revolutions, published in 1962.
