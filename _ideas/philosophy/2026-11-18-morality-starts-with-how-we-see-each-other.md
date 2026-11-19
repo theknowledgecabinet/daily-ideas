@@ -29,6 +29,9 @@ audio:
 prev:
   url: /science/2026-11-17-paradigm-shift-why-science-does-not-move-forward-step-by/
   title: 'Paradigm shift: why science does not move forward step by step'
+next:
+  url: /technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/
+  title: Why well-run companies still get destroyed
 ---
 {% raw %}
 Most of us picture morality as a set of duties or rules: what we must do, and what we must not. The philosopher Iris Murdoch thought that got the priorities backwards. For her, the heart of the moral life is not what we choose to do, but how we see other people. We are always building up a picture of the world, and that picture shapes what we do next. See someone as your enemy, and you will start treating them as one.

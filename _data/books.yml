@@ -65,6 +65,12 @@
   url: /creativity-learning/2026-10-30-making-something-has-phases-and-the-deadline-fits-only-one/
   topic: Creativity & Learning
   colour: '#b0487a'
+- book: 'The Innovator''s Dilemma: When New Technologies Cause Great Firms to Fail'
+  author: Clayton M. Christensen
+  title: Why well-run companies still get destroyed
+  url: /technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/
+  topic: Technology & AI
+  colour: '#2b6cb0'
 - book: The Mythical Man-Month
   author: Frederick P. Brooks Jr.
   title: Why the second system is the most dangerous one you'll ever build

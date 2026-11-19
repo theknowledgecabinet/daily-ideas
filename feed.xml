@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 18 Nov 2026 08:26:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 08:15:28 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Why well-run companies still get destroyed</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/</link>
+    <guid isPermaLink="false">daily-idea-32</guid>
+    <pubDate>Thu, 19 Nov 2026 08:15:28 +0000</pubDate>
+    <description>&lt;p&gt;The word disruptive is everywhere now; this idea explains the actual mechanism, and why good management can be part of the problem.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;In Christensen&amp;#x27;s account, disruption is a process, not a product: a newcomer enters where the incumbent&amp;#x27;s economics do not reach, and improves until it owns the mainstream.&lt;/li&gt;&lt;li&gt;The paradox: the firms that listen hardest to their most profitable customers and keep improving the product are the ones most exposed, because rational decisions today blind them to tomorrow&amp;#x27;s market.&lt;/li&gt;&lt;li&gt;The Model T did not matter until mass production changed its economics; the technology was decades old, the business model was new.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Pick one product you use daily that was once dismissed as a cheap toy or a niche gadget. Ten minutes to write down when its economics changed, and what it ended up displacing.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://en.wikipedia.org/wiki/Disruptive_innovation&quot;&gt;Wikipedia&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-19-why-well-run-companies-still-get-destroyed/audio.mp3" length="1218188" type="audio/mpeg"/>
+    <itunes:duration>203</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Morality starts with how we see each other</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-18-morality-starts-with-how-we-see-each-other/</link>
