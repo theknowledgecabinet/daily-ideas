@@ -23,9 +23,9 @@ try_this: 'Next time a zero appears on your screen, take ten seconds to picture 
 why: The tools we treat as universal were once local inventions, and what a culture is willing to think about shapes what it can build.
 audio:
   url: /assets/ideas/2026-11-20-india-s-impressive-concept-about-nothing/audio.mp3
-  bytes: 96284
-  seconds: 16
-  length: 1 min
+  bytes: 1228124
+  seconds: 205
+  length: 3 min
 image:
   card:
     url: /assets/ideas/2026-11-20-india-s-impressive-concept-about-nothing/card.webp

@@ -23,7 +23,7 @@ try_this: Think of one recent unpleasant experience you replay in your head. Not
 why: Because memory drives the choice to repeat anything, the two moments you can influence, the peak and the ending, matter more than the length.
 audio:
   url: /assets/ideas/2026-11-16-why-feeling-more-pain-may-be-better-for-you/audio.mp3
-  bytes: 1024508
+  bytes: 1024364
   seconds: 171
   length: 3 min
 image:
