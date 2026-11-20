@@ -23,7 +23,7 @@ try_this: 'Write your chosen habit as an if-then: one exact cue (a time, place o
 why: 'It replaces the anxious spiral of wondering whether you should have done it today with something steadier: a missed day does not reset the curve, but a reliable trigger does the real work of making the behaviour automatic.'
 audio:
   url: /assets/ideas/2026-10-29-how-long-does-it-take-to-form-a-habit/audio.mp3
-  bytes: 1257788
+  bytes: 1257644
   seconds: 210
   length: 4 min
 image:

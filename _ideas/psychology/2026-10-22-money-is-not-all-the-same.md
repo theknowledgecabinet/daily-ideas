@@ -25,7 +25,7 @@ try_this: Next time you get money you did not expect, a bonus, a refund, a retur
 why: Mental accounting shapes how much you will risk, how long you will hold a losing position, and what counts as a good deal, so noticing it is noticing one of the quietest forces in your own wallet.
 audio:
   url: /assets/ideas/2026-10-22-money-is-not-all-the-same/audio.mp3
-  bytes: 1178732
+  bytes: 1178876
   seconds: 196
   length: 3 min
 image:

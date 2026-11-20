@@ -23,7 +23,7 @@ try_this: Before you design a second version of anything, list every feature you
 why: The second version of anything is where ambition tends to run past what worked, and this gives you a simple way to spot it early.
 audio:
   url: /assets/ideas/2026-10-16-why-the-second-system-is-the-most-dangerous-one-you-ll-ever/audio.mp3
-  bytes: 910604
+  bytes: 910460
   seconds: 152
   length: 3 min
 image:

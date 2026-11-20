@@ -23,7 +23,7 @@ try_this: Next time you meet a genuinely new problem at work or in study, spend 
 why: Nearly every skill we pick up outside school follows this shape, and the first, frustrating attempt shapes how well the real instruction lands.
 audio:
   url: /assets/ideas/2026-11-08-struggling-before-the-lesson-works-better-than-the-lesson/audio.mp3
-  bytes: 1132796
+  bytes: 1133084
   seconds: 189
   length: 3 min
 image:

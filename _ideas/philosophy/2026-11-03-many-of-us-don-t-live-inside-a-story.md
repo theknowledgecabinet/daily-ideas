@@ -23,7 +23,7 @@ try_this: Set a timer for ten minutes and write down as many memories as you can
 why: Knowing whether you are a story you are living, or just a life you are living, changes how you treat your own incoherence.
 audio:
   url: /assets/ideas/2026-11-03-many-of-us-don-t-live-inside-a-story/audio.mp3
-  bytes: 1184780
+  bytes: 1184636
   seconds: 197
   length: 3 min
 image:

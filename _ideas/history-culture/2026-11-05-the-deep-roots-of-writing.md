@@ -23,7 +23,7 @@ try_this: Spend five minutes counting something physical, a handful of beans, a 
 why: Every time you jot a list or a note, you are using a technology whose roots are in wet clay, not in an office.
 audio:
   url: /assets/ideas/2026-11-05-the-deep-roots-of-writing/audio.mp3
-  bytes: 1221932
+  bytes: 1222076
   seconds: 204
   length: 3 min
 image:

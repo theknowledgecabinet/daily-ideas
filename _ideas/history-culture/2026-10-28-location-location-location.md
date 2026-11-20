@@ -26,7 +26,7 @@ try_this: Take five minutes with a world map. Draw the long axis of each contine
 why: If part of history is a matter of where you started, then poverty and dominance become things you can understand and work on, rather than fate.
 audio:
   url: /assets/ideas/2026-10-28-location-location-location/audio.mp3
-  bytes: 1246556
+  bytes: 1246412
   seconds: 208
   length: 3 min
 image:

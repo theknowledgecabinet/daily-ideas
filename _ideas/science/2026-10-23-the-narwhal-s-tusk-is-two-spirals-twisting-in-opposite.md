@@ -24,7 +24,7 @@ try_this: Find a straight piece of wood or rope nearby and compare how it holds 
 why: It shows how an animal's most famous feature is built from a hidden counterbalancing structure, the kind of design that engineers keep borrowing.
 audio:
   url: /assets/ideas/2026-10-23-the-narwhal-s-tusk-is-two-spirals-twisting-in-opposite/audio.mp3
-  bytes: 1074476
+  bytes: 1075340
   seconds: 179
   length: 3 min
 image:

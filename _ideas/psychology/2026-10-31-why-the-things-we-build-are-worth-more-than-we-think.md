@@ -23,7 +23,7 @@ try_this: Pick one small task you have been postponing, a half-finished shelf or
 why: We all make things that are a bit wrong, and the IKEA effect explains why we keep them anyway.
 audio:
   url: /assets/ideas/2026-10-31-why-the-things-we-build-are-worth-more-than-we-think/audio.mp3
-  bytes: 962156
+  bytes: 962012
   seconds: 160
   length: 3 min
 image:

@@ -24,7 +24,7 @@ try_this: Spend ten minutes rearranging one shelf or drawer where you make a rep
 why: Most of our default choices are made automatically, not by willpower, so if you want a different default, change where the things are rather than trying to resist them.
 audio:
   url: /assets/ideas/2026-11-14-enlightened-eating/audio.mp3
-  bytes: 920828
+  bytes: 920684
   seconds: 153
   length: 3 min
 image:

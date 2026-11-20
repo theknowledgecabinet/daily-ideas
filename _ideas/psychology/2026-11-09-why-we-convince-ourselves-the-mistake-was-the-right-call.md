@@ -25,9 +25,9 @@ try_this: When you catch yourself defending a decision that new evidence is quie
 why: We all make bad calls; the book is about why the quieter second act of covering them up usually costs more than the first.
 audio:
   url: /assets/ideas/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/audio.mp3
-  bytes: 82172
-  seconds: 14
-  length: 1 min
+  bytes: 1062236
+  seconds: 177
+  length: 3 min
 image:
   card:
     url: /assets/ideas/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/card.webp

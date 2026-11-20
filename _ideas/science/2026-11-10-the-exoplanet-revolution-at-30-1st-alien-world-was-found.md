@@ -22,7 +22,7 @@ try_this: 'Next time a new exoplanet makes the news, look for one number: how fa
 why: It is a concrete case of models built from a single example being overturned by one new observation, a pattern that shows up far more often in everyday life than we usually notice.
 audio:
   url: /assets/ideas/2026-11-10-the-exoplanet-revolution-at-30-1st-alien-world-was-found/audio.mp3
-  bytes: 1027964
+  bytes: 1028108
   seconds: 171
   length: 3 min
 image:
