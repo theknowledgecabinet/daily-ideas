@@ -29,6 +29,9 @@ audio:
 prev:
   url: /philosophy/2026-11-18-morality-starts-with-how-we-see-each-other/
   title: Morality starts with how we see each other
+next:
+  url: /history-culture/2026-11-20-india-s-impressive-concept-about-nothing/
+  title: India's impressive concept about nothing
 ---
 {% raw %}
 Clayton Christensen studied how whole industries die, and his starting point was the hard disk drive industry in the 1990s. What he found ran counter to the usual story. Firms do not usually fall behind because they fail to keep up with the technology. The disk drive makers knew about the smaller, cheaper drives arriving. The problem was that those drives did not make enough money to justify producing them, and building them would have pulled resources away from the work that was actually paying the bills. The rational response was to ignore them, and that is precisely what got the leaders killed.

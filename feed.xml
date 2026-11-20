@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Thu, 19 Nov 2026 08:15:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 08:17:14 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>India&#x27;s impressive concept about nothing</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-20-india-s-impressive-concept-about-nothing/</link>
+    <guid isPermaLink="false">daily-idea-33</guid>
+    <pubDate>Fri, 20 Nov 2026 08:17:14 +0000</pubDate>
+    <description>&lt;p&gt;The tools we treat as universal were once local inventions, and what a culture is willing to think about shapes what it can build.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The oldest known zero as a written digit was carved in India: the number 270 in the ninth-century Chaturbhuj Temple inside Gwalior Fort held the record until carbon dating pushed it back to the third or fourth century.&lt;/li&gt;&lt;li&gt;A culture that meditates on nothingness can be better equipped to treat nothing as a number: Hindu and Buddhist ideas, including the Buddhist doctrine of Shunyata, may have made the zero possible.&lt;/li&gt;&lt;li&gt;The same idea underpins modern computing: binary runs on zero and one, and the binary concept was described in India by the second or third century BCE.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time a zero appears on your screen, take ten seconds to picture where it came from: a carved temple wall and a dot on a scroll, older than most of the other digits on that screen.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.bbc.com/travel/article/20180807-how-india-gave-us-the-zero&quot;&gt;BBC Travel&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-20-india-s-impressive-concept-about-nothing/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-20-india-s-impressive-concept-about-nothing/audio.mp3" length="96284" type="audio/mpeg"/>
+    <itunes:duration>16</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Why well-run companies still get destroyed</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/</link>
