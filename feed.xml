@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 20 Nov 2026 08:17:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 08:16:44 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Praise the effort, not the cleverness</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-21-praise-the-effort-not-the-cleverness/</link>
+    <guid isPermaLink="false">daily-idea-34</guid>
+    <pubDate>Sat, 21 Nov 2026 08:16:44 +0000</pubDate>
+    <description>&lt;p&gt;The words we use to mark effort shape whether a person runs towards the hard thing or away from it, which quietly sets the pace of learning for years.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Praise what the person did, not who they are: telling a child they worked hard on something lands differently from telling them they are clever.&lt;/li&gt;&lt;li&gt;A single compliment can quietly change behaviour, because it signals which label the person now has to defend.&lt;/li&gt;&lt;li&gt;The habit worth building is one that treats struggling as information, not as proof of a fixed limit.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time you praise someone, or yourself, swap the label for the process. Instead of saying they are so quick at this, say what you actually saw, such as that they kept working at it until the piece fit. Takes seconds, but it points the credit somewhere that can grow.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://bingschool.stanford.edu/news/praising-intelligence-costs-childrens-self-esteem-and-motivation&quot;&gt;Stanford Bing Nursery School (transcript of Carol Dweck&amp;#x27;s 2011 lecture)&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-21-praise-the-effort-not-the-cleverness/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-21-praise-the-effort-not-the-cleverness/audio.mp3" length="1004924" type="audio/mpeg"/>
+    <itunes:duration>167</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>India&#x27;s impressive concept about nothing</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-20-india-s-impressive-concept-about-nothing/</link>

@@ -50,6 +50,9 @@ image:
 prev:
   url: /technology-ai/2026-11-19-why-well-run-companies-still-get-destroyed/
   title: Why well-run companies still get destroyed
+next:
+  url: /habits-growth/2026-11-21-praise-the-effort-not-the-cleverness/
+  title: Praise the effort, not the cleverness
 ---
 {% raw %}
 Carved into the rock face of a small ninth-century temple inside Gwalior Fort in central India is the number 270. For a long time it was the oldest known example of zero written as a digit. It sits in the Chaturbhuj Temple, a modest structure tucked between much larger towers, and it marks the moment when a culture decided that nothing could be a number.
