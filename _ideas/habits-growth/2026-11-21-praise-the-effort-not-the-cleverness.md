@@ -31,6 +31,9 @@ audio:
 prev:
   url: /history-culture/2026-11-20-india-s-impressive-concept-about-nothing/
   title: India's impressive concept about nothing
+next:
+  url: /creativity-learning/2026-11-22-boredom-is-a-message-worth-hearing/
+  title: Boredom is a message worth hearing
 ---
 {% raw %}
 Carol Dweck, the Stanford psychologist behind the phrase "growth mindset", has a simple-sounding finding that keeps surprising people. In a series of studies with fifth graders, she and her colleague Claudia Mueller gave children a set of puzzles, then split them into three groups and praised them in three different ways. One third of the children were told "you must be smart at this". Another third were told "you must have tried really hard", and the last third got a flat "good job". The praise changed what the children did next.

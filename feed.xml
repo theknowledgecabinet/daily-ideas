@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Sat, 21 Nov 2026 08:16:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 08:16:42 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Boredom is a message worth hearing</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-22-boredom-is-a-message-worth-hearing/</link>
+    <guid isPermaLink="false">daily-idea-35</guid>
+    <pubDate>Sun, 22 Nov 2026 08:16:42 +0000</pubDate>
+    <description>&lt;p&gt;Boredom shows up mid-task, mid-class and mid-life, and how you read it decides whether it wastes you or redirects you.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Boredom is a fit signal: the task is too easy, too hard, or simply not meaningful to you right now. Treat it as data rather than a nuisance.&lt;/li&gt;&lt;li&gt;The idea that boredom boosts creativity has not held up; one 2016 study found practice, not boredom, drives creative output, and boredom often impaired it.&lt;/li&gt;&lt;li&gt;The lever is your response. A deliberate choice (call, walk, practice an instrument) beats the default scroll, and the freedom to have options is part of what matters.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time the itchy boredom hits, put the phone in another room for ten minutes, write down why you are bored, and then pick one response that has a point instead of the default.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.nationalgeographic.com/science/article/creativity-mental-benefits-boredom&quot;&gt;National Geographic&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/creativity-learning/2026-11-22-boredom-is-a-message-worth-hearing/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-22-boredom-is-a-message-worth-hearing/audio.mp3" length="1287308" type="audio/mpeg"/>
+    <itunes:duration>215</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Praise the effort, not the cleverness</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-21-praise-the-effort-not-the-cleverness/</link>
