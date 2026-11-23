@@ -50,6 +50,9 @@ image:
 prev:
   url: /habits-growth/2026-11-21-praise-the-effort-not-the-cleverness/
   title: Praise the effort, not the cleverness
+next:
+  url: /psychology/2026-11-23-the-channel-between-boredom-and-anxiety/
+  title: The channel between boredom and anxiety
 ---
 {% raw %}
 For most of history, boredom has been treated as something to escape, a gap to fill. A growing body of research suggests something else: boredom is a signal worth taking seriously. James Danckert, a cognitive neuroscientist at the University of Waterloo, compares it to pain. Pain tells you something is wrong and that you should act about it, and boredom plays a similar role, telling you that what you are doing right now is not working. Erin Westgate, a social psychologist at Florida State University, gives the signal a more precise shape. The task in front of you is not a good fit for the mental or emotional resources you have at that moment. It is too easy, or too hard, or it simply does not matter to you.
