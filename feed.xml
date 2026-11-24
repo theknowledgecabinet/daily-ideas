@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Mon, 23 Nov 2026 08:40:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 08:08:50 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The most perfect liquid ever observed</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-24-the-most-perfect-liquid-ever-observed/</link>
+    <guid isPermaLink="false">daily-idea-37</guid>
+    <pubDate>Tue, 24 Nov 2026 08:08:50 +0000</pubDate>
+    <description>&lt;p&gt;Everything around you was once part of this liquid in the universe&amp;#x27;s first microseconds, so studying it is a way of looking at what matter was like before matter existed.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Physicists expected the quark-gluon plasma to behave like a free-flowing gas. It turned out to be a liquid with almost no resistance to flow, so much so that the RHIC teams named it the most perfect liquid ever observed.&lt;/li&gt;&lt;li&gt;The evidence was in the debris: elliptical flow patterns in the scattered particles and jet quenching, where jets of particles lose energy passing through the plasma.&lt;/li&gt;&lt;li&gt;CERN&amp;#x27;s LHC later recreated the same state at a higher temperature with the same liquid behaviour, which is why the result is treated as solid rather than a fluke.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Next time you read a science headline, ask whether the experiment confirmed expectations or broke them. The results that break the theory are the ones worth spending five minutes on.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://www.energy.gov/science/articles/quarter-century-surprises-exploring-quark-gluon-plasma&quot;&gt;U.S. Department of Energy, Office of Science&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-24-the-most-perfect-liquid-ever-observed/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-24-the-most-perfect-liquid-ever-observed/audio.mp3" length="1114940" type="audio/mpeg"/>
+    <itunes:duration>186</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The channel between boredom and anxiety</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/psychology/2026-11-23-the-channel-between-boredom-and-anxiety/</link>

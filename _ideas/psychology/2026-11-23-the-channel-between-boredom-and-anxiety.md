@@ -29,6 +29,9 @@ audio:
 prev:
   url: /creativity-learning/2026-11-22-boredom-is-a-message-worth-hearing/
   title: Boredom is a message worth hearing
+next:
+  url: /science/2026-11-24-the-most-perfect-liquid-ever-observed/
+  title: The most perfect liquid ever observed
 ---
 {% raw %}
 Mihaly Csikszentmihalyi started studying the idea after he became fascinated by painters who got so absorbed in a canvas that they forgot to eat or even sleep. He set it out in a 1975 book and the book Flow followed in 1990. The name is a metaphor that came from his own interviews. People described their best moments as being carried along on a current, like floating on water. It is what most people mean when they say they are in the zone.

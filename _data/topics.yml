@@ -5,7 +5,7 @@
 - name: Science
   slug: science
   colour: '#2f7d6d'
-  count: 5
+  count: 6
 - name: Philosophy
   slug: philosophy
   colour: '#5b4b8a'
