@@ -30,6 +30,9 @@ audio:
 prev:
   url: /psychology/2026-11-23-the-channel-between-boredom-and-anxiety/
   title: The channel between boredom and anxiety
+next:
+  url: /philosophy/2026-11-25-happiness-is-what-you-do/
+  title: Happiness is what you do
 ---
 {% raw %}
 Inside the Relativistic Heavy Ion Collider at Brookhaven, two metal rings more than two miles around send clouds of gold ions hurtling in opposite directions until they collide. The fireball that results sits around four trillion degrees Celsius, more than 250,000 times hotter than the core of the sun, and for a sliver of time far shorter than a blink, the protons and neutrons that make up ordinary matter melt into their components, quarks and gluons. Physicists call that soup the quark-gluon plasma, and before 2000 it had only ever existed in the first few microseconds after the Big Bang.

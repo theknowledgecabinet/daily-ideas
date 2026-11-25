@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Tue, 24 Nov 2026 08:08:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 08:12:53 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Happiness is what you do</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-25-happiness-is-what-you-do/</link>
+    <guid isPermaLink="false">daily-idea-38</guid>
+    <pubDate>Wed, 25 Nov 2026 08:12:53 +0000</pubDate>
+    <description>&lt;p&gt;It changes the question from how you are feeling to what you are doing, which you can actually work on.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Eudaimonia, &amp;#x27;happiness&amp;#x27; or &amp;#x27;flourishing&amp;#x27;, is for Aristotle a lifelong activity of living well, not a mood to be had or a state to be in.&lt;/li&gt;&lt;li&gt;His argument is functional: a good knife cuts, and what is distinctive about humans is reason, so we flourish when we use reason well across a whole life.&lt;/li&gt;&lt;li&gt;Ethics becomes a skill you can practise rather than a theory you must finish: the ability to judge what the right thing is on each occasion.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Take ten minutes tonight. List the things you did this week that were genuinely good for you, and for each note whether it was an activity you did or a state you were in. The gap between the two lists is where Aristotle locates the good life.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://plato.stanford.edu/entries/aristotle-ethics/&quot;&gt;Stanford Encyclopedia of Philosophy&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-25-happiness-is-what-you-do/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-25-happiness-is-what-you-do/audio.mp3" length="921404" type="audio/mpeg"/>
+    <itunes:duration>154</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The most perfect liquid ever observed</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/science/2026-11-24-the-most-perfect-liquid-ever-observed/</link>

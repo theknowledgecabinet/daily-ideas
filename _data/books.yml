@@ -59,6 +59,12 @@
   url: /psychology/2026-11-09-why-we-convince-ourselves-the-mistake-was-the-right-call/
   topic: Psychology
   colour: '#b5523b'
+- book: Nicomachean Ethics
+  author: Aristotle
+  title: Happiness is what you do
+  url: /philosophy/2026-11-25-happiness-is-what-you-do/
+  topic: Philosophy
+  colour: '#5b4b8a'
 - book: 'Originals: How Non-Conformists Move the World'
   author: Adam Grant
   title: You have to generate a lot of garbage to reach greatness
