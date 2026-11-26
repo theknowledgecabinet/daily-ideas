@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Wed, 25 Nov 2026 08:12:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 08:13:40 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Attention Is All You Need</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-26-attention-is-all-you-need/</link>
+    <guid isPermaLink="false">daily-idea-39</guid>
+    <pubDate>Thu, 26 Nov 2026 08:13:40 +0000</pubDate>
+    <description>&lt;p&gt;The next time a chatbot answers you fluently, the machinery underneath it traces back to a 2017 bet on machine translation.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Transformer architecture throws out sequential memory processing entirely, letting every word consider every other word at once.&lt;/li&gt;&lt;li&gt;The authors&amp;#x27; own numbers: record-setting translation quality at a small fraction of the usual training cost, thanks to full parallelism.&lt;/li&gt;&lt;li&gt;The mechanism behind modern large language models came from a machine translation paper, which helps explain why these systems are so fluent.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Read the paper&amp;#x27;s abstract on arXiv (about five minutes, one page), then read any paragraph you like out loud and ask, word by word, which earlier word each one is really paying attention to.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://arxiv.org/abs/1706.03762&quot;&gt;arXiv&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/technology-ai/2026-11-26-attention-is-all-you-need/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-26-attention-is-all-you-need/audio.mp3" length="926012" type="audio/mpeg"/>
+    <itunes:duration>154</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Happiness is what you do</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/philosophy/2026-11-25-happiness-is-what-you-do/</link>

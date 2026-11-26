@@ -52,6 +52,9 @@ image:
 prev:
   url: /science/2026-11-24-the-most-perfect-liquid-ever-observed/
   title: The most perfect liquid ever observed
+next:
+  url: /technology-ai/2026-11-26-attention-is-all-you-need/
+  title: Attention Is All You Need
 ---
 {% raw %}
 Aristotle opens the Nicomachean Ethics with a question most of us skip: what is a good life actually? He assumes we can list the things that are good, friends, health, honour, a little wealth. The hard part is that these goods do not rank themselves, and we want to know which are most worth choosing. So he asks for the highest good, the thing we want for its own sake and for the sake of which everything else is worth having. He notes that everyone already agrees this is what the Greeks called eudaimonia, normally translated as 'happiness' or 'flourishing'. The key move is to treat it as an evaluative term, a way of saying 'living well', not as a description of a feeling.
