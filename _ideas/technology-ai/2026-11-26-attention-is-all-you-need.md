@@ -49,6 +49,9 @@ image:
 prev:
   url: /philosophy/2026-11-25-happiness-is-what-you-do/
   title: Happiness is what you do
+next:
+  url: /history-culture/2026-11-27-the-centre-of-the-world-moves/
+  title: The centre of the world moves
 ---
 {% raw %}
 In 2017, eight Google researchers published a paper called Attention Is All You Need. Machine translation systems at the time were built on sequential memory: recurrent networks that processed words one at a time, each passing the baton to the next. The paper's proposal was radical and simple. Toss the memory part away and build the whole model from attention alone, the same mechanism that had already been quietly used to connect the encoder and decoder in the best existing systems.
