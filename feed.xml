@@ -6,7 +6,7 @@
   <atom:link href="https://theknowledgecabinet.github.io/daily-ideas/feed.xml" rel="self" type="application/rss+xml"/>
   <description>One good idea a day, to read or to listen to.</description>
   <language>en-gb</language>
-  <lastBuildDate>Fri, 27 Nov 2026 08:25:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 08:50:22 +0000</lastBuildDate>
   <image><url>https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg</url><title>Daily Idea</title><link>https://theknowledgecabinet.github.io/daily-ideas/</link></image>
   <itunes:image href="https://theknowledgecabinet.github.io/daily-ideas/assets/podcast-cover.jpg"/>
   <itunes:author>Daily Idea</itunes:author>
@@ -14,6 +14,17 @@
   <itunes:category text="Education"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>The if-then plan that closes the gap between intent and action</title>
+    <link>https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-28-the-if-then-plan-that-closes-the-gap-between-intent-and/</link>
+    <guid isPermaLink="false">daily-idea-41</guid>
+    <pubDate>Sat, 28 Nov 2026 08:50:22 +0000</pubDate>
+    <description>&lt;p&gt;It turns the moments you usually fumble through into moments that run on rails.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Write your next goal as an if-then: name the exact cue you will encounter and the single first action it triggers.&lt;/li&gt;&lt;li&gt;The effect survives distraction, so bind the plan to a cue you cannot miss, not to &amp;quot;when I feel like it.&amp;quot;&lt;/li&gt;&lt;li&gt;It multiplies motivation you already have but cannot create it, and it works best on small, startable actions rather than large multi-step goals.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Try this today: Pick one intention you keep dropping. Rewrite it as &amp;quot;If [a specific time or cue], then I will [one concrete action]&amp;quot; and write it down before bed.&lt;/p&gt;&lt;p&gt;Original: &lt;a href=&quot;https://yukaichou.com/gamification-analysis/implementation-intentions-if-then-planning-gollwitzer/&quot;&gt;Yu-kai Chou, yukaichou.com&lt;/a&gt; · &lt;a href=&quot;https://theknowledgecabinet.github.io/daily-ideas/habits-growth/2026-11-28-the-if-then-plan-that-closes-the-gap-between-intent-and/&quot;&gt;Read it on the site&lt;/a&gt;&lt;/p&gt;</description>
+    <enclosure url="https://theknowledgecabinet.github.io/daily-ideas/assets/ideas/2026-11-28-the-if-then-plan-that-closes-the-gap-between-intent-and/audio.mp3" length="1120988" type="audio/mpeg"/>
+    <itunes:duration>187</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>The centre of the world moves</title>
     <link>https://theknowledgecabinet.github.io/daily-ideas/history-culture/2026-11-27-the-centre-of-the-world-moves/</link>

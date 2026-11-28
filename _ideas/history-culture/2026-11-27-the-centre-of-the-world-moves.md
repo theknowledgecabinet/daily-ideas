@@ -52,6 +52,9 @@ image:
 prev:
   url: /technology-ai/2026-11-26-attention-is-all-you-need/
   title: Attention Is All You Need
+next:
+  url: /habits-growth/2026-11-28-the-if-then-plan-that-closes-the-gap-between-intent-and/
+  title: The if-then plan that closes the gap between intent and action
 ---
 {% raw %}
 Peter Frankopan has a memory that has never left him. He was a schoolboy in Britain, learning about Henry VIII for the third or fourth time, the Battle of Hastings, the First World War. At the same time, the news was full of Soviet missiles in eastern Germany, the revolution in Iran, the Khmer Rouge. He could not understand why the parts of the world making the headlines were the parts of the world he was never taught about.
